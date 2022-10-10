@@ -1,0 +1,29 @@
+{
+  "name": "origin-design-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tokenize": "node style-dictionary/build.js",
+    "clean": "rm -rf dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejandroriverovaldescaro/origin.git"
+  },
+  "keywords": [
+    "tokens",
+    "design"
+  ],
+  "author": "Alex Alvarez Gárciga <aagarciga@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejandroriverovaldescaro/origin/issues"
+  },
+  "homepage": "https://github.com/alejandroriverovaldescaro/origin#readme",
+  "devDependencies": {
+    "@divriots/style-dictionary-to-figma": "^0.4.0",
+    "style-dictionary": "^3.7.1"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "color": {
+    "brand": {
+      "primary": { "value": "#1ab394" },
+      "secondary": { "value": "#1a85b3" },
+      "tertiary": { "value": "#1a85b3" }
+    }
+  }
+}

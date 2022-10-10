@@ -1,0 +1,20 @@
+{
+  "color": {
+    "base": {
+      "black": { "value": "#000000" },
+      "white": { "value": "#FFFFFF" },
+      "prussian blue": { "value": "#003153" },
+      "platinum": { "value": "#e3e7e6" },
+      "jungle green": { "value": "#1ab394" },
+      "blue NCS": { "value": "#1a85b3" }
+    },
+    "primary": { "value": "{color.brand.primary.value}" },
+    "secondary": { "value": "{color.brand.secondary.value}" },
+    "tertiary": { "value": "{color.brand.tertiary.value}" },
+    "action": {
+      "primary": { "value": "{color.primary.value}" },
+      "secondary": { "value": "{color.secondary.value}" },
+      "tertiary": { "value": "{color.tertiary.value}" }
+    }
+  }
+}
